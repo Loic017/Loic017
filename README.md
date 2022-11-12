@@ -2,9 +2,9 @@
 
 Computer Science Student
 ------------------------
-A (almost) 2nd year Computer Science student. Interested in web development and more.
+A (2nd year Computer Science student. Interested in web development and more.
 
-* 🧠  I'm learning Django, more HTML + CSS and improving my Python.
+* 🧠  I'm learning Django, more HTML + CSS and improving my Python + Java.
 
 <h2>Skills</h2>
 
