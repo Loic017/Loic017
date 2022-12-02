@@ -1,5 +1,3 @@
-<h1 align="center">:large_blue_circle: Hi, I'm Loic :large_blue_circle:</h1>
-
 <h2>Skills</h2>
 
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
