@@ -1,9 +1,13 @@
-<h2>Skills</h2>
+# 💻
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/tIwINlJDlFt8zcBas0sE4CXAksIldUgFN8x6Cj9OfyI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/b2VyY29tbW9ucy5v/cmcvZWRpdG9yL2lt/YWdlcy84NDU" width="36" height="36" alt="Matlab" /></a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<a href="https://github.com/Loic017" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic017&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<!--![](https://github-readme-stats.vercel.app/api?username=Loic017&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Loic017&theme=react&hide_border=false)<br/>-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loic017&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
