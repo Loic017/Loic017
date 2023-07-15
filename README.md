@@ -1,4 +1,4 @@
-# 👋 Good Evening
+# 👋🏻 Good Evening
 🧑‍🎓 A 3rd year undergraduate @ Cardiff University
 
 ✏️ I’m currently learning JavaScript and everything else
