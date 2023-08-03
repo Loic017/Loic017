@@ -1,7 +1,9 @@
+
+
 # 👋🏻 Good Evening
 🧑‍🎓 A 3rd year undergraduate @ Cardiff University
 
-✏️ I’m currently learning JavaScript and React
+✏️ I’m currently learning JavaScript, Django & React with a sprinkle of SQL
 
 # 🎯 I have experience using...
 
