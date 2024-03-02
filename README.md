@@ -1,12 +1,7 @@
 # 👋🏻 Hello there,  I'm Loic
 🧑‍🎓 A 3rd year undergraduate @ Cardiff University
 
-✏️ I’m currently learning machine learning and completing my dissertation
-
-💭 Interested in exploring machine learning, TinyML, full stack development and more
-
 **Visit my website** 🔗 [lorentel.com](https://www.lorentel.com)
-
 
 # 🎯 I have experience creating with...
 
